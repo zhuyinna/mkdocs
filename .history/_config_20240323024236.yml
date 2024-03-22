@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://zhuyinna.github.io
+url: http://zhuyinna/zhuyinna.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -114,7 +114,7 @@ deploy:
 
 algolia:
   applicationID: 'C5AN9B2N88'
-  apiKey: 'eebd5f89545a4285245406e93ab883c3'
-  adminApiKey: 'd8c9fc7d659c9a8e42f52700dc68e07b'
-  indexName: 'hexo2'
+  apiKey: '6f8fd994cb22ea28159f853d47ac129e'
+  adminApiKey: 'b227038235f83f9e09ff5c941dfba365'
+  indexName: 'hexo'
   chunkSize: 5000

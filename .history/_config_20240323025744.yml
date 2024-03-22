@@ -118,3 +118,12 @@ algolia:
   adminApiKey: 'd8c9fc7d659c9a8e42f52700dc68e07b'
   indexName: 'hexo2'
   chunkSize: 5000
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
