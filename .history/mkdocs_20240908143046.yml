@@ -1,0 +1,19 @@
+# 项目信息
+site_name: ScholarPilot
+site_url: https://zhuyinna.github.io/mkdocs/
+site_author: Makxxl
+
+# 代码仓库信息
+repo_name: zhuyinna/mkdocs # 仓库名称
+repo_url: https://github.com/zhuyinna/mkdocs.git # 仓库地址
+
+features: # 功能 
+
+
+
+theme: 
+  name: material
+
+nav:
+  - 简介: index.md  
+  - 算法基础: 算法基础.md

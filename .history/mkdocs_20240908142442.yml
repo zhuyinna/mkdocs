@@ -1,0 +1,7 @@
+site_name: ScholarPilot
+theme: 
+  name: material
+
+nav:
+  - 首页: index.md  
+  - 测试页: test.md

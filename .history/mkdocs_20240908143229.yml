@@ -1,0 +1,29 @@
+# http://www.cuishuaiwen.com:8000/zh/PROJECT/TECH-BLOG/mkdocs_and_material/#material_2
+
+# 项目信息
+site_name: ScholarPilot
+site_url: https://zhuyinna.github.io/mkdocs/
+site_author: Makxxl
+
+# 代码仓库信息
+repo_name: zhuyinna/mkdocs # 仓库名称
+repo_url: https://github.com/zhuyinna/mkdocs.git # 仓库地址
+
+features: # 功能 
+  - content.code.copy # 复制代码按钮
+  - navigation.footer # 底部导航栏
+  - navigation.instant.prefetch # 预加载
+  - navigation.instant.progress # 进度条
+  - navigation.sections # 导航栏的section
+  - navigation.top # 开启顶部导航栏
+  - search.highlight # 搜索高亮
+
+palette:
+  - media: "(prefers-color-scheme)" # 主题颜色
+
+theme: 
+  name: material
+
+nav:
+  - 简介: index.md  
+  - 算法基础: 算法基础.md

@@ -1,0 +1,8 @@
+site_name: ScholarPilot
+site_url: https://zhuyinna.github.io/mkdocs/
+theme: 
+  name: material
+
+nav:
+  - 简介: index.md  
+  - 算法基础: 算法基础.md
