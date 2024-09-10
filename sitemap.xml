@@ -2,26 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://zhuyinna.github.io/mkdocs/</loc>
-         <lastmod>2024-09-08</lastmod>
+         <lastmod>2024-09-10</lastmod>
     </url>
     <url>
          <loc>https://zhuyinna.github.io/mkdocs/about/</loc>
-         <lastmod>2024-09-08</lastmod>
+         <lastmod>2024-09-10</lastmod>
     </url>
     <url>
          <loc>https://zhuyinna.github.io/mkdocs/AIGC/AIGC-Weekly/</loc>
-         <lastmod>2024-09-08</lastmod>
+         <lastmod>2024-09-10</lastmod>
     </url>
     <url>
          <loc>https://zhuyinna.github.io/mkdocs/blog/</loc>
-         <lastmod>2024-09-08</lastmod>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://zhuyinna.github.io/mkdocs/blog/2024/09/08/%E4%BA%BA%E7%94%9F%E9%80%82%E6%84%8F%E6%9C%80%E9%9A%BE%E5%BE%97/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://zhuyinna.github.io/mkdocs/blog/2024/09/08/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://zhuyinna.github.io/mkdocs/%E5%B7%A5%E5%85%B7/mkdocs%E6%8F%92%E4%BB%B6/</loc>
+         <lastmod>2024-09-10</lastmod>
     </url>
     <url>
          <loc>https://zhuyinna.github.io/mkdocs/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</loc>
-         <lastmod>2024-09-08</lastmod>
+         <lastmod>2024-09-10</lastmod>
     </url>
     <url>
-         <loc>https://zhuyinna.github.io/mkdocs/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
-         <lastmod>2024-09-08</lastmod>
+         <loc>https://zhuyinna.github.io/mkdocs/blog/archive/2024/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://zhuyinna.github.io/mkdocs/blog/category/%E6%9D%82%E8%B0%88%E9%9A%8F%E7%AC%94/</loc>
+         <lastmod>2024-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://zhuyinna.github.io/mkdocs/tags/</loc>
+         <lastmod>2024-09-10</lastmod>
     </url>
 </urlset>
